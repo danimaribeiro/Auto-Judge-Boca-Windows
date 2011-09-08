@@ -1,0 +1,44 @@
+E:\Projetos\Boca\Boca\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projetos\Boca\Boca\obj\x86\Debug\Boca.Form1.resources
+E:\Projetos\Boca\Boca\obj\x86\Debug\Boca.Properties.Resources.resources
+E:\Projetos\Boca\Boca\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Projetos\Boca\Boca\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Projetos\Boca\Boca\bin\Debug\Boca.exe
+E:\Projetos\Boca\Boca\bin\Debug\Boca.pdb
+E:\Projetos\Boca\Boca\bin\Debug\Mono.Security.dll
+E:\Projetos\Boca\Boca\bin\Debug\Npgsql.dll
+E:\Projetos\Boca\Boca\obj\x86\Debug\Boca.exe
+E:\Projetos\Boca\Boca\obj\x86\Debug\Boca.pdb
+D:\Dropbox\Dropbox\Sites\Boca\Boca\obj\x86\Debug\Boca.exe
+D:\Dropbox\Dropbox\Sites\Boca\Boca\obj\x86\Debug\Boca.pdb
+E:\DropBox\Dropbox\Sites\Boca\Boca\obj\x86\Debug\Boca.exe
+E:\DropBox\Dropbox\Sites\Boca\Boca\obj\x86\Debug\Boca.pdb
+E:\DropBox\Dropbox\Sites\Boca\Boca\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DropBox\Dropbox\Sites\Boca\Boca\obj\x86\Debug\Boca.AutoJudge.resources
+E:\DropBox\Dropbox\Sites\Boca\Boca\obj\x86\Debug\Boca.Properties.Resources.resources
+E:\DropBox\Dropbox\Sites\Boca\Boca\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DropBox\Dropbox\Sites\Boca\Boca\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\DropBox\Dropbox\Sites\Boca\Boca\bin\Debug\Boca.exe.config
+E:\DropBox\Dropbox\Sites\Boca\Boca\bin\Debug\Boca.exe
+E:\DropBox\Dropbox\Sites\Boca\Boca\bin\Debug\Boca.pdb
+E:\DropBox\Dropbox\Sites\Boca\Boca\bin\Debug\Mono.Security.dll
+E:\DropBox\Dropbox\Sites\Boca\Boca\bin\Debug\Npgsql.dll
+D:\Dropbox\Dropbox\Sites\Boca\Boca\bin\Debug\Boca.exe.config
+E:\DropBox\Dropbox\Sites\Boca\Boca\obj\x86\Debug\Boca.Configuracoes.resources
+E:\DropBox\Dropbox\Sites\Boca\Boca\obj\x86\Debug\Boca.Logar.resources
+F:\DropBox\Dropbox\Sites\Boca\Boca\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\DropBox\Dropbox\Sites\Boca\Boca\obj\x86\Debug\Boca.AutoJudge.resources
+F:\DropBox\Dropbox\Sites\Boca\Boca\obj\x86\Debug\Boca.Configuracoes.resources
+F:\DropBox\Dropbox\Sites\Boca\Boca\obj\x86\Debug\Boca.Logar.resources
+F:\DropBox\Dropbox\Sites\Boca\Boca\obj\x86\Debug\Boca.Properties.Resources.resources
+F:\DropBox\Dropbox\Sites\Boca\Boca\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\DropBox\Dropbox\Sites\Boca\Boca\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\DropBox\Dropbox\Sites\Boca\Boca\obj\x86\Debug\Boca.pdb
+F:\DropBox\Dropbox\Sites\Boca\Boca\bin\Debug\Boca.exe.config
+F:\DropBox\Dropbox\Sites\Boca\Boca\bin\Debug\Boca.exe
+F:\DropBox\Dropbox\Sites\Boca\Boca\bin\Debug\Boca.pdb
+F:\DropBox\Dropbox\Sites\Boca\Boca\bin\Debug\Npgsql.dll
+F:\DropBox\Dropbox\Sites\Boca\Boca\obj\x86\Debug\Boca.exe
+E:\Interesting Projects\Auto-Judge-Boca-Windows\Boca\bin\Debug\Boca.exe.config
+E:\Interesting Projects\Auto-Judge-Boca-Windows\Boca\obj\x86\Debug\Boca.exe
+E:\Interesting Projects\Auto-Judge-Boca-Windows\Boca\obj\x86\Debug\Boca.pdb
