@@ -72,8 +72,17 @@ namespace Boca.Repositorio
         public void DownloadArquivos(Dominio.Submissao submissao)
         {
             Dominio.Configuracao configuracao = new Dominio.Configuracao();
-            string caminho = System.IO.Path.Combine(configuracao.CaminhoSalvarSubmissoes, submissao.Id + ".c");
-
+            string caminho=string.Empty;
+            switch (submissao.Linguagem)
+            {
+                case Dominio.Linguagem.C:
+                    caminho = System.IO.Path.Combine(configuracao.CaminhoSalvarSubmissoes, submissao.Id + ".c");
+                    break;
+                case Dominio.Linguagem.Cmaismais:
+                    caminho = System.IO.Path.Combine(configuracao.CaminhoSalvarSubmissoes, submissao.Id + ".cpp");
+                    break;
+            }
+             
             NpgsqlConnection conexao = new NpgsqlConnection("Server=187.45.196.224;Database=bubblesort9;User ID=bubblesort9;Password=BSboca;");
             NpgsqlTransaction transacao = null;
             try

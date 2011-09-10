@@ -75,9 +75,14 @@ namespace Boca
 
         private void button1_Click(object sender, EventArgs e)
         {
-
-        }
-
-       
+            Dominio.Configuracao config = new Dominio.Configuracao();
+            config.Banco = txtBanco.Text;
+            config.Porta = textBox1.Text;
+            config.Banco = txtBanco.Text;
+            config.Usuario = txtUsuario.Text;
+            config.Senha = txtSenha.Text;
+            config.SalvarConfiguracao();
+            MessageBox.Show("Configurado com sucesso");
+        }       
     }
 }

@@ -55,7 +55,7 @@ namespace Boca
         {
             Dominio.Configuracao configuracao = new Dominio.Configuracao();
             string arquivo = System.IO.Path.Combine(configuracao.CaminhoSalvarSubmissoes, submissao.Id + ".cpp");
-            string nome = submissao.Id + ".exe";
+            string nome =  System.IO.Path.Combine(configuracao.CaminhoSalvarSubmissoes,submissao.Id + ".exe");
 
             string comando = string.Format("/c g++ \"{0}\" -o \"{1}\"", arquivo, nome);
             return ExecutarPromptComando(comando, configuracao.CaminhoGmaismais);

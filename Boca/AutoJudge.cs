@@ -41,19 +41,23 @@ namespace Boca
 
         private void btnIniciar_Click(object sender, EventArgs e)
         {
-            int idContest = (int)cmbContest.SelectedValue;
-            if (idContest > 0)
+            Dominio.Configuracao configuracao = new Dominio.Configuracao();
+            if (configuracao.IsValido())
             {
-                _Questoes = _QuestaoRepositorio.Questoes(idContest);
-                foreach (var item in _Questoes)
+                int idContest = (int)cmbContest.SelectedValue;
+                if (idContest > 0)
                 {
-                    _QuestaoRepositorio.DownloadQuestao(item);
+                    _Questoes = _QuestaoRepositorio.Questoes(idContest);
+                    foreach (var item in _Questoes)
+                    {
+                        _QuestaoRepositorio.DownloadQuestao(item);
+                    }
+
+                    lstProblemas.DataSource = _Questoes;
+
+                    cmbContest.Enabled = false;
+                    timer2.Enabled = true;
                 }
-
-                lstProblemas.DataSource = _Questoes;
-
-                cmbContest.Enabled = false;
-                timer2.Enabled = true;
             }
         }
 
